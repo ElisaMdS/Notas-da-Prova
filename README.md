@@ -25,17 +25,17 @@ Saída:
 Seu programa deve imprimir, na saída padrão, uma letra (A, B, C, D, ou E em maiúsculas) representando o conceito correspondente à nota dada na entrada.
 
  
-Exemplos de Entrada:
+Exemplo de Entrada:
 12
-Exemplos de Saída:
+Exemplo de Saída:
 D
 
-Exemplos de Entrada: 
+Exemplo de Entrada: 
 87
-Exemplos de Saída:
+Exemplo de Saída:
 A
 
-Exemplos de Entrada: 
+Exemplo de Entrada: 
 0
-Exemplos de Saída:
+Exemplo de Saída:
 E
